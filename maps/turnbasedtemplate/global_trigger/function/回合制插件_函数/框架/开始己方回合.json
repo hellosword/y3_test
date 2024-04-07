@@ -1,0 +1,108 @@
+{
+    "action": [
+        {
+            "action_type": "SET_VARIABLE", 
+            "args_list": [
+                {
+                    "arg_type": 100030, 
+                    "args_list": [
+                        [
+                            "UNIT_ENTITY", 
+                            "\u5df1\u65b9\u5355\u4f4d", 
+                            "local"
+                        ]
+                    ], 
+                    "sub_type": 1
+                }, 
+                {
+                    "arg_type": 100006, 
+                    "args_list": [
+                        {
+                            "arg_type": 100011, 
+                            "args_list": [
+                                [
+                                    "TABLE", 
+                                    "\u5df1\u65b9\u961f\u4f0d"
+                                ]
+                            ], 
+                            "sub_type": "VARIABLE"
+                        }, 
+                        {
+                            "arg_type": 100002, 
+                            "args_list": [
+                                [
+                                    "INTEGER", 
+                                    "\u961f\u4f0d\u7d22\u5f15", 
+                                    "local"
+                                ]
+                            ], 
+                            "sub_type": 6
+                        }, 
+                        {
+                            "arg_type": 100003, 
+                            "args_list": [
+                                "\u5355\u4f4d"
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "sub_type": "GET_UNIT_ENTITY_TABLE_VAR_ND"
+                }
+            ], 
+            "bp": false, 
+            "element_id": 219250715000002, 
+            "enable": true
+        }, 
+        {
+            "action_type": "SEND_CUSTOM_EVENT", 
+            "args_list": [
+                {
+                    "arg_type": 100238, 
+                    "args_list": [
+                        1456528405
+                    ], 
+                    "sub_type": 1
+                }, 
+                {
+                    "arg_type": 100006, 
+                    "args_list": [
+                        [
+                            "UNIT_ENTITY", 
+                            "\u5df1\u65b9\u5355\u4f4d", 
+                            "local"
+                        ]
+                    ], 
+                    "sub_type": 11
+                }
+            ], 
+            "bp": false, 
+            "element_id": 873562133370093, 
+            "enable": true
+        }
+    ], 
+    "call_enabled": true, 
+    "condition": [], 
+    "enabled": true, 
+    "event": [], 
+    "func_category": "t_function", 
+    "func_comment": "", 
+    "func_des": "\u5f00\u59cb\u5df1\u65b9\u56de\u5408{\u961f\u4f0d\u7d22\u5f15}", 
+    "func_id": "27f256c0576911eeb53230d042e90e85", 
+    "func_name": "\u5f00\u59cb\u5df1\u65b9\u56de\u5408", 
+    "func_param_list": [
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u961f\u4f0d\u7d22\u5f15", 
+                true
+            ]
+        }
+    ], 
+    "group_id": "oAzX8F3JEe6bxjDQQuc0bg", 
+    "is_func": true, 
+    "is_official_func": false, 
+    "p_trigger_id": null, 
+    "trigger_id": 219250715, 
+    "trigger_name": "\u5f00\u59cb\u5df1\u65b9\u56de\u5408", 
+    "valid": true
+}

@@ -1,0 +1,149 @@
+{
+    "dir": [
+        {
+            "children": [
+                "gAxqEWgAEe6TczDQQukOhT", 
+                487686177, 
+                873562148, 
+                60944438, 
+                365699127, 
+                403988541
+            ], 
+            "key": "root_key", 
+            "name": "root", 
+            "parent": null, 
+            "type": "virtual_folder"
+        }, 
+        {
+            "children": [
+                880910377, 
+                1953640489, 
+                1837277226, 
+                2122596395, 
+                1117765676, 
+                254775349, 
+                1017118765, 
+                648028206, 
+                933412911, 
+                614694960, 
+                997871679
+            ], 
+            "key": "gAxqEWgAEe6TczDQQukOhT", 
+            "name": "\u56de\u5408\u5236\u63d2\u4ef6_\u81ea\u5b9a\u4e49\u4e8b\u4ef6", 
+            "parent": null, 
+            "type": "trigger_group"
+        }, 
+        {
+            "children": null, 
+            "key": 487686177, 
+            "name": "\u6e38\u620f\u521d\u59cb\u5316", 
+            "parent": null, 
+            "type": "trigger"
+        }, 
+        {
+            "children": null, 
+            "key": 873562148, 
+            "name": "\u8fdb\u5165\u533a\u57df\u6218\u65971", 
+            "parent": null, 
+            "type": "trigger"
+        }, 
+        {
+            "children": null, 
+            "key": 60944438, 
+            "name": "\u8fdb\u5165\u533a\u57df\u6218\u65972", 
+            "parent": null, 
+            "type": "trigger"
+        }, 
+        {
+            "children": null, 
+            "key": 365699127, 
+            "name": "\u8fdb\u5165\u533a\u57df\u6218\u65973", 
+            "parent": null, 
+            "type": "trigger"
+        }, 
+        {
+            "children": null, 
+            "key": 403988541, 
+            "name": "\u6218\u6597\u4e2d\u9003\u8dd1", 
+            "parent": null, 
+            "type": "trigger"
+        }, 
+        {
+            "children": null, 
+            "key": 880910377, 
+            "name": "\u521d\u59cb\u5316\u6218\u6597\u961f\u4f0d", 
+            "parent": "gAxqEWgAEe6TczDQQukOhT", 
+            "type": "trigger"
+        }, 
+        {
+            "children": null, 
+            "key": 1953640489, 
+            "name": "\u5f00\u59cb\u6218\u6597", 
+            "parent": "gAxqEWgAEe6TczDQQukOhT", 
+            "type": "trigger"
+        }, 
+        {
+            "children": null, 
+            "key": 1837277226, 
+            "name": "\u5f00\u59cb\u4e00\u8f6e", 
+            "parent": "gAxqEWgAEe6TczDQQukOhT", 
+            "type": "trigger"
+        }, 
+        {
+            "children": null, 
+            "key": 2122596395, 
+            "name": "\u5373\u5c06\u5f00\u59cb\u56de\u5408", 
+            "parent": "gAxqEWgAEe6TczDQQukOhT", 
+            "type": "trigger"
+        }, 
+        {
+            "children": null, 
+            "key": 1117765676, 
+            "name": "\u5f00\u59cb\u5df1\u65b9\u56de\u5408", 
+            "parent": "gAxqEWgAEe6TczDQQukOhT", 
+            "type": "trigger"
+        }, 
+        {
+            "children": null, 
+            "key": 254775349, 
+            "name": "\u5df1\u65b9\u65bd\u653e\u6280\u80fd", 
+            "parent": "gAxqEWgAEe6TczDQQukOhT", 
+            "type": "trigger"
+        }, 
+        {
+            "children": null, 
+            "key": 1017118765, 
+            "name": "\u5f00\u59cb\u654c\u65b9\u56de\u5408", 
+            "parent": "gAxqEWgAEe6TczDQQukOhT", 
+            "type": "trigger"
+        }, 
+        {
+            "children": null, 
+            "key": 648028206, 
+            "name": "\u7ed3\u675f\u56de\u5408", 
+            "parent": "gAxqEWgAEe6TczDQQukOhT", 
+            "type": "trigger"
+        }, 
+        {
+            "children": null, 
+            "key": 933412911, 
+            "name": "\u7ed3\u675f\u4e00\u8f6e", 
+            "parent": "gAxqEWgAEe6TczDQQukOhT", 
+            "type": "trigger"
+        }, 
+        {
+            "children": null, 
+            "key": 614694960, 
+            "name": "\u6218\u6597\u7ed3\u675f", 
+            "parent": "gAxqEWgAEe6TczDQQukOhT", 
+            "type": "trigger"
+        }, 
+        {
+            "children": null, 
+            "key": 997871679, 
+            "name": "\u6218\u6597\u4e2d\u5355\u4f4d\u6b7b\u4ea1\u76d1\u542c", 
+            "parent": "gAxqEWgAEe6TczDQQukOhT", 
+            "type": "trigger"
+        }
+    ]
+}

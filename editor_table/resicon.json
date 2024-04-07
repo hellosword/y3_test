@@ -1,0 +1,114 @@
+{
+    "ui/134220362": {
+        "default_editor_id": 134220362, 
+        "describe": "", 
+        "key": "ui/134220362", 
+        "name": "\u6bd2\u5143\u7d20\u602a", 
+        "path": "ui/134220362", 
+        "uid": "res_icon_ui/134220362"
+    }, 
+    "ui/134221685": {
+        "default_editor_id": 134221685, 
+        "describe": "", 
+        "key": "ui/134221685", 
+        "name": "\u523a\u5ba2", 
+        "path": "ui/134221685", 
+        "uid": "res_icon_ui/134221685"
+    }, 
+    "ui/134222732": {
+        "default_editor_id": 134222732, 
+        "describe": "", 
+        "key": "ui/134222732", 
+        "name": "\u6218\u58eb", 
+        "path": "ui/134222732", 
+        "uid": "res_icon_ui/134222732"
+    }, 
+    "ui/134228284": {
+        "default_editor_id": 134228284, 
+        "describe": "", 
+        "key": "ui/134228284", 
+        "name": "\u6cd5\u5e08", 
+        "path": "ui/134228284", 
+        "uid": "res_icon_ui/134228284"
+    }, 
+    "ui/134241722": {
+        "default_editor_id": 134241722, 
+        "describe": "", 
+        "key": "ui/134241722", 
+        "name": "image.psd", 
+        "path": "ui/134241722", 
+        "uid": "res_icon_ui/134241722"
+    }, 
+    "ui/134246189": {
+        "default_editor_id": 134246189, 
+        "describe": "", 
+        "key": "ui/134246189", 
+        "name": "\u91d1\u7532\u866b", 
+        "path": "ui/134246189", 
+        "uid": "res_icon_ui/134246189"
+    }, 
+    "ui/134247662": {
+        "default_editor_id": 134247662, 
+        "describe": "", 
+        "key": "ui/134247662", 
+        "name": "image.psd (1)", 
+        "path": "ui/134247662", 
+        "uid": "res_icon_ui/134247662"
+    }, 
+    "ui/134249773": {
+        "default_editor_id": 134249773, 
+        "describe": "", 
+        "key": "ui/134249773", 
+        "name": "\u6076\u72fc", 
+        "path": "ui/134249773", 
+        "uid": "res_icon_ui/134249773"
+    }, 
+    "ui/134254645": {
+        "default_editor_id": 134254645, 
+        "describe": "", 
+        "key": "ui/134254645", 
+        "name": "boss", 
+        "path": "ui/134254645", 
+        "uid": "res_icon_ui/134254645"
+    }, 
+    "ui/134254838": {
+        "default_editor_id": 134254838, 
+        "describe": "", 
+        "key": "ui/134254838", 
+        "name": "image.psd (4)", 
+        "path": "ui/134254838", 
+        "uid": "res_icon_ui/134254838"
+    }, 
+    "ui/134262129": {
+        "default_editor_id": 134262129, 
+        "describe": "", 
+        "key": "ui/134262129", 
+        "name": "\u6cbc\u6cfd\u602a", 
+        "path": "ui/134262129", 
+        "uid": "res_icon_ui/134262129"
+    }, 
+    "ui/134262294": {
+        "default_editor_id": 134262294, 
+        "describe": "", 
+        "key": "ui/134262294", 
+        "name": "\u86db\u9b54", 
+        "path": "ui/134262294", 
+        "uid": "res_icon_ui/134262294"
+    }, 
+    "ui/134263052": {
+        "default_editor_id": 134263052, 
+        "describe": "", 
+        "key": "ui/134263052", 
+        "name": "image.psd (3)", 
+        "path": "ui/134263052", 
+        "uid": "res_icon_ui/134263052"
+    }, 
+    "ui/134277757": {
+        "default_editor_id": 134277757, 
+        "describe": "", 
+        "key": "ui/134277757", 
+        "name": "\u5929\u4f7f", 
+        "path": "ui/134277757", 
+        "uid": "res_icon_ui/134277757"
+    }
+}

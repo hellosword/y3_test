@@ -1,0 +1,5 @@
+# -*- encoding:utf-8 -*-
+_reload_all = True
+
+
+data = {134247149: {'name': u'\u8840\u5200\u5149', 'model_id': 134247149, 'effect_path': 'Fx_Effect/Cartoon/Fx_Skill/Knife/Knife_5002_skill_pet_02_01_copy', 'meshes': (), 'custom': True}, 134263759: {'name': u'\u64cd\u4f5c\u6307\u5f15', 'model_id': 134263759, 'effect_path': 'Fx_Effect/OtherType/Other_Type_blank_copy', 'meshes': (), 'custom': True, 'effect_keep': True, 'effect_max_life': -1}, 134256810: {'name': u'\u6218\u6597\u4e00\u6307\u5f15', 'model_id': 134256810, 'effect_path': 'Fx_Effect/OtherType/Other_Type_blank_copy_1', 'meshes': (), 'custom': True, 'effect_keep': True, 'effect_max_life': -1}, 134236980: {'name': u'\u6307\u5f152', 'model_id': 134236980, 'effect_path': 'Fx_Effect/OtherType/Other_Type_blank_copy_2', 'meshes': (), 'custom': True, 'effect_keep': True, 'effect_max_life': -1}, 134234944: {'name': u'\u6307\u5f153', 'model_id': 134234944, 'effect_path': 'Fx_Effect/OtherType/Other_Type_blank_copy_3', 'meshes': (), 'custom': True, 'effect_keep': True, 'effect_max_life': -1}}

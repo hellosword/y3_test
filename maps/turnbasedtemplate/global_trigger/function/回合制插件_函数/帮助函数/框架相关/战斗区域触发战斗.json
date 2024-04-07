@@ -1,0 +1,166 @@
+{
+    "action": [
+        {
+            "action_type": "SET_VARIABLE", 
+            "args_list": [
+                {
+                    "arg_type": 100030, 
+                    "args_list": [
+                        {
+                            "__tuple__": true, 
+                            "items": [
+                                "RECTANGLE", 
+                                "\u5f53\u524d\u6218\u6597\u533a\u57df"
+                            ]
+                        }
+                    ], 
+                    "sub_type": 1
+                }, 
+                {
+                    "arg_type": 100009, 
+                    "args_list": [
+                        {
+                            "__tuple__": true, 
+                            "items": [
+                                "RECTANGLE", 
+                                "\u6218\u6597\u533a\u57df", 
+                                "local"
+                            ]
+                        }
+                    ], 
+                    "sub_type": 7
+                }
+            ], 
+            "bp": false, 
+            "element_id": 572506174000003, 
+            "enable": true
+        }, 
+        {
+            "action_type": "PLAY_UI_COMP_ANIM", 
+            "args_list": [
+                {
+                    "arg_type": 100025, 
+                    "args_list": [
+                        1
+                    ], 
+                    "sub_type": 1
+                }, 
+                {
+                    "arg_type": 100239, 
+                    "args_list": [
+                        "6c204dba-f0eb-4f69-bd62-7eb36485802d"
+                    ], 
+                    "sub_type": 1
+                }
+            ], 
+            "bp": false, 
+            "element_id": 873562148000027, 
+            "enable": true, 
+            "op_arg": [
+                null, 
+                {
+                    "arg_type": 100001, 
+                    "args_list": [
+                        true
+                    ], 
+                    "sub_type": 1
+                }
+            ], 
+            "op_arg_enable": [
+                false, 
+                false
+            ]
+        }, 
+        {
+            "action_type": "RUN_ONCE_TIMER_NO_SAVE", 
+            "args_list": [
+                {
+                    "arg_type": 100000, 
+                    "args_list": [
+                        1.25
+                    ], 
+                    "sub_type": 1
+                }, 
+                {
+                    "arg_type": 100022, 
+                    "args_list": [
+                        {
+                            "action_type": "CALL_TRIGGER_FUNC", 
+                            "args_list": [
+                                {
+                                    "arg_type": 100177, 
+                                    "args_list": [
+                                        {
+                                            "arg_type": 100002, 
+                                            "args_list": [
+                                                {
+                                                    "__tuple__": true, 
+                                                    "items": [
+                                                        "INTEGER", 
+                                                        "\u6218\u6597ID", 
+                                                        "local"
+                                                    ]
+                                                }
+                                            ], 
+                                            "sub_type": 6
+                                        }
+                                    ], 
+                                    "op_arg": [], 
+                                    "op_arg_enable": [], 
+                                    "sub_type": "8af62c405d0611eebbb830d042e90e85"
+                                }
+                            ], 
+                            "bp": false, 
+                            "call_rt_arg_idxes": [], 
+                            "element_id": 873562148000003, 
+                            "enable": true
+                        }
+                    ], 
+                    "sub_type": 1
+                }
+            ], 
+            "bp": false, 
+            "element_id": 873562148000019, 
+            "enable": true, 
+            "local_var": {
+                "__tuple__": true, 
+                "items": [
+                    {}, 
+                    {}
+                ]
+            }
+        }
+    ], 
+    "call_enabled": true, 
+    "condition": [], 
+    "enabled": true, 
+    "event": [], 
+    "func_category": "t_function", 
+    "func_comment": "", 
+    "func_des": "\u5728\u533a\u57df{\u6218\u6597\u533a\u57df}\u89e6\u53d1\u6218\u6597{\u6218\u6597ID}", 
+    "func_id": "657e172e718711eebc0e30d042e90e85", 
+    "func_name": "\u6218\u6597\u533a\u57df\u89e6\u53d1\u6218\u6597", 
+    "func_param_list": [
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u6218\u6597\u533a\u57df", 
+                true
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u6218\u6597ID", 
+                true
+            ]
+        }
+    ], 
+    "group_id": "5i4LT2gAEe6RyTDQQukOhX", 
+    "is_func": true, 
+    "is_official_func": false, 
+    "p_trigger_id": null, 
+    "trigger_id": 572506174, 
+    "trigger_name": "\u6218\u6597\u533a\u57df\u89e6\u53d1\u6218\u6597", 
+    "valid": true
+}

@@ -1,0 +1,12 @@
+{
+    "custom": true, 
+    "effect_keep": true, 
+    "effect_max_life": -1, 
+    "effect_path": "Fx_Effect/OtherType/Other_Type_blank_copy_3", 
+    "meshes": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "model_id": 134234944, 
+    "name": "\u6307\u5f153"
+}

@@ -1,0 +1,1432 @@
+{
+    "1024": {
+        "10022": {
+            "id": 10022, 
+            "name": "\u6218\u6597\u4e00\u82f1\u96c4\u70b91", 
+            "placed_lock": false, 
+            "placed_visibility": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    [
+                        -10, 
+                        2147483648
+                    ], 
+                    [
+                        0, 
+                        0
+                    ], 
+                    [
+                        -83, 
+                        2147483648
+                    ]
+                ]
+            }, 
+            "type": 1024
+        }, 
+        "10023": {
+            "id": 10023, 
+            "name": "\u6218\u6597\u4e00\u82f1\u96c4\u70b92", 
+            "placed_lock": false, 
+            "placed_visibility": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    [
+                        -10, 
+                        0
+                    ], 
+                    [
+                        0, 
+                        0
+                    ], 
+                    [
+                        -80, 
+                        0
+                    ]
+                ]
+            }, 
+            "type": 1024
+        }, 
+        "10024": {
+            "id": 10024, 
+            "name": "\u6218\u6597\u4e00\u82f1\u96c4\u70b93", 
+            "placed_lock": false, 
+            "placed_visibility": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    [
+                        -10, 
+                        2085281792
+                    ], 
+                    [
+                        0, 
+                        0
+                    ], 
+                    [
+                        -78, 
+                        3084288000
+                    ]
+                ]
+            }, 
+            "type": 1024
+        }, 
+        "10025": {
+            "id": 10025, 
+            "name": "\u6218\u6597\u4e00\u82f1\u96c4\u70b94", 
+            "placed_lock": false, 
+            "placed_visibility": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    [
+                        -9, 
+                        0
+                    ], 
+                    [
+                        0, 
+                        0
+                    ], 
+                    [
+                        -75, 
+                        0
+                    ]
+                ]
+            }, 
+            "type": 1024
+        }, 
+        "10026": {
+            "id": 10026, 
+            "name": "\u6218\u6597\u4e00\u82f1\u96c4\u53d7\u51fb\u70b91", 
+            "placed_lock": false, 
+            "placed_visibility": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    [
+                        -8, 
+                        0
+                    ], 
+                    [
+                        0, 
+                        0
+                    ], 
+                    [
+                        -83, 
+                        2147483648
+                    ]
+                ]
+            }, 
+            "type": 1024
+        }, 
+        "10027": {
+            "id": 10027, 
+            "name": "\u6218\u6597\u4e00\u82f1\u96c4\u53d7\u51fb\u70b92", 
+            "placed_lock": false, 
+            "placed_visibility": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    [
+                        -9, 
+                        2147483648
+                    ], 
+                    [
+                        0, 
+                        0
+                    ], 
+                    [
+                        -80, 
+                        0
+                    ]
+                ]
+            }, 
+            "type": 1024
+        }, 
+        "10028": {
+            "id": 10028, 
+            "name": "\u6218\u6597\u4e00\u82f1\u96c4\u53d7\u51fb\u70b93", 
+            "placed_lock": false, 
+            "placed_visibility": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    [
+                        -8, 
+                        77774848
+                    ], 
+                    [
+                        0, 
+                        0
+                    ], 
+                    [
+                        -78, 
+                        2905210880
+                    ]
+                ]
+            }, 
+            "type": 1024
+        }, 
+        "10029": {
+            "id": 10029, 
+            "name": "\u6218\u6597\u4e00\u82f1\u96c4\u53d7\u51fb\u70b94", 
+            "placed_lock": false, 
+            "placed_visibility": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    [
+                        -8, 
+                        2147483648
+                    ], 
+                    [
+                        0, 
+                        0
+                    ], 
+                    [
+                        -75, 
+                        0
+                    ]
+                ]
+            }, 
+            "type": 1024
+        }, 
+        "10030": {
+            "id": 10030, 
+            "name": "\u6218\u6597\u4e00\u602a\u7269\u53d7\u51fb\u70b91", 
+            "placed_lock": false, 
+            "placed_visibility": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    [
+                        -2, 
+                        1461436416
+                    ], 
+                    [
+                        0, 
+                        0
+                    ], 
+                    [
+                        -83, 
+                        3063808000
+                    ]
+                ]
+            }, 
+            "type": 1024
+        }, 
+        "10031": {
+            "id": 10031, 
+            "name": "\u6218\u6597\u4e00\u602a\u7269\u53d7\u51fb\u70b92", 
+            "placed_lock": false, 
+            "placed_visibility": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    [
+                        -1, 
+                        776339456
+                    ], 
+                    [
+                        0, 
+                        0
+                    ], 
+                    [
+                        -81, 
+                        3205611520
+                    ]
+                ]
+            }, 
+            "type": 1024
+        }, 
+        "10032": {
+            "id": 10032, 
+            "name": "\u6218\u6597\u4e00\u602a\u7269\u53d7\u51fb\u70b93", 
+            "placed_lock": false, 
+            "placed_visibility": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    [
+                        -1, 
+                        2275221504
+                    ], 
+                    [
+                        0, 
+                        0
+                    ], 
+                    [
+                        -78, 
+                        2515550208
+                    ]
+                ]
+            }, 
+            "type": 1024
+        }, 
+        "10033": {
+            "id": 10033, 
+            "name": "\u6218\u6597\u4e00\u602a\u7269\u53d7\u51fb\u70b94", 
+            "placed_lock": false, 
+            "placed_visibility": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    [
+                        -1, 
+                        69040128
+                    ], 
+                    [
+                        0, 
+                        0
+                    ], 
+                    [
+                        -75, 
+                        496386048
+                    ]
+                ]
+            }, 
+            "type": 1024
+        }, 
+        "10034": {
+            "id": 10034, 
+            "name": "\u6218\u6597\u4e00\u602a\u7269\u70b91", 
+            "placed_lock": false, 
+            "placed_visibility": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    [
+                        -1, 
+                        3647774720
+                    ], 
+                    [
+                        0, 
+                        0
+                    ], 
+                    [
+                        -83, 
+                        2872000512
+                    ]
+                ]
+            }, 
+            "type": 1024
+        }, 
+        "10035": {
+            "id": 10035, 
+            "name": "\u6218\u6597\u4e00\u602a\u7269\u70b92", 
+            "placed_lock": false, 
+            "placed_visibility": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    [
+                        0, 
+                        2733643264
+                    ], 
+                    [
+                        0, 
+                        0
+                    ], 
+                    [
+                        -81, 
+                        3123396608
+                    ]
+                ]
+            }, 
+            "type": 1024
+        }, 
+        "10036": {
+            "id": 10036, 
+            "name": "\u6218\u6597\u4e00\u602a\u7269\u70b93", 
+            "placed_lock": false, 
+            "placed_visibility": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    [
+                        0, 
+                        4206608896
+                    ], 
+                    [
+                        0, 
+                        0
+                    ], 
+                    [
+                        -78, 
+                        2563080192
+                    ]
+                ]
+            }, 
+            "type": 1024
+        }, 
+        "10037": {
+            "id": 10037, 
+            "name": "\u6218\u6597\u4e00\u602a\u7269\u70b94", 
+            "placed_lock": false, 
+            "placed_visibility": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    [
+                        0, 
+                        2683883008
+                    ], 
+                    [
+                        0, 
+                        0
+                    ], 
+                    [
+                        -75, 
+                        267943936
+                    ]
+                ]
+            }, 
+            "type": 1024
+        }, 
+        "10038": {
+            "id": 10038, 
+            "name": "\u6218\u6597\u4e00\u654c\u65b9AOE\u53d7\u51fb\u70b9", 
+            "placed_lock": false, 
+            "placed_visibility": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    [
+                        -1, 
+                        2635068928
+                    ], 
+                    [
+                        0, 
+                        0
+                    ], 
+                    [
+                        -79, 
+                        746881024
+                    ]
+                ]
+            }, 
+            "type": 1024
+        }, 
+        "10039": {
+            "id": 10039, 
+            "name": "\u6218\u6597\u4e00\u4e59\u65b9AOE\u53d7\u51fb\u70b9", 
+            "placed_lock": false, 
+            "placed_visibility": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    [
+                        -10, 
+                        2704629760
+                    ], 
+                    [
+                        0, 
+                        0
+                    ], 
+                    [
+                        -79, 
+                        1599700992
+                    ]
+                ]
+            }, 
+            "type": 1024
+        }, 
+        "10042": {
+            "id": 10042, 
+            "name": "\u6218\u6597\u4e8c\u82f1\u96c4\u70b91", 
+            "placed_lock": false, 
+            "placed_visibility": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    [
+                        75, 
+                        0
+                    ], 
+                    [
+                        0, 
+                        0
+                    ], 
+                    [
+                        -83, 
+                        3161525427
+                    ]
+                ]
+            }, 
+            "type": 1024
+        }, 
+        "10043": {
+            "id": 10043, 
+            "name": "\u6218\u6597\u4e8c\u82f1\u96c4\u70b92", 
+            "placed_lock": false, 
+            "placed_visibility": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    [
+                        74, 
+                        0
+                    ], 
+                    [
+                        0, 
+                        0
+                    ], 
+                    [
+                        -80, 
+                        82033875
+                    ]
+                ]
+            }, 
+            "type": 1024
+        }, 
+        "10044": {
+            "id": 10044, 
+            "name": "\u6218\u6597\u4e8c\u82f1\u96c4\u70b93", 
+            "placed_lock": false, 
+            "placed_visibility": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    [
+                        74, 
+                        0
+                    ], 
+                    [
+                        0, 
+                        0
+                    ], 
+                    [
+                        -78, 
+                        1784558911
+                    ]
+                ]
+            }, 
+            "type": 1024
+        }, 
+        "10045": {
+            "id": 10045, 
+            "name": "\u6218\u6597\u4e8c\u82f1\u96c4\u70b94", 
+            "placed_lock": false, 
+            "placed_visibility": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    [
+                        75, 
+                        0
+                    ], 
+                    [
+                        0, 
+                        0
+                    ], 
+                    [
+                        -76, 
+                        3408056549
+                    ]
+                ]
+            }, 
+            "type": 1024
+        }, 
+        "10046": {
+            "id": 10046, 
+            "name": "\u6218\u6597\u4e8c\u82f1\u96c4\u53d7\u51fb\u70b91", 
+            "placed_lock": false, 
+            "placed_visibility": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    [
+                        76, 
+                        2147483648
+                    ], 
+                    [
+                        0, 
+                        0
+                    ], 
+                    [
+                        -83, 
+                        3328599654
+                    ]
+                ]
+            }, 
+            "type": 1024
+        }, 
+        "10047": {
+            "id": 10047, 
+            "name": "\u6218\u6597\u4e8c\u82f1\u96c4\u53d7\u51fb\u70b92", 
+            "placed_lock": false, 
+            "placed_visibility": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    [
+                        75, 
+                        2147483648
+                    ], 
+                    [
+                        0, 
+                        0
+                    ], 
+                    [
+                        -80, 
+                        731432931
+                    ]
+                ]
+            }, 
+            "type": 1024
+        }, 
+        "10048": {
+            "id": 10048, 
+            "name": "\u6218\u6597\u4e8c\u82f1\u96c4\u53d7\u51fb\u70b93", 
+            "placed_lock": false, 
+            "placed_visibility": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    [
+                        75, 
+                        2147483648
+                    ], 
+                    [
+                        0, 
+                        0
+                    ], 
+                    [
+                        -78, 
+                        1748910683
+                    ]
+                ]
+            }, 
+            "type": 1024
+        }, 
+        "10049": {
+            "id": 10049, 
+            "name": "\u6218\u6597\u4e8c\u82f1\u96c4\u53d7\u51fb\u70b94", 
+            "placed_lock": false, 
+            "placed_visibility": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    [
+                        76, 
+                        2147483648
+                    ], 
+                    [
+                        0, 
+                        0
+                    ], 
+                    [
+                        -76, 
+                        3566540843
+                    ]
+                ]
+            }, 
+            "type": 1024
+        }, 
+        "10050": {
+            "id": 10050, 
+            "name": "\u6218\u6597\u4e8c\u4e59\u65b9AOE\u53d7\u51fb\u70b9", 
+            "placed_lock": false, 
+            "placed_visibility": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    [
+                        74, 
+                        2165309440
+                    ], 
+                    [
+                        0, 
+                        0
+                    ], 
+                    [
+                        -79, 
+                        757661696
+                    ]
+                ]
+            }, 
+            "type": 1024
+        }, 
+        "10051": {
+            "id": 10051, 
+            "name": "\u6218\u6597\u4e8c\u602a\u7269\u53d7\u51fb\u70b91", 
+            "placed_lock": false, 
+            "placed_visibility": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    [
+                        84, 
+                        1537015808
+                    ], 
+                    [
+                        0, 
+                        0
+                    ], 
+                    [
+                        -81, 
+                        794296320
+                    ]
+                ]
+            }, 
+            "type": 1024
+        }, 
+        "10052": {
+            "id": 10052, 
+            "name": "\u6218\u6597\u4e8c\u602a\u7269\u53d7\u51fb\u70b92", 
+            "placed_lock": false, 
+            "placed_visibility": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    [
+                        85, 
+                        116686848
+                    ], 
+                    [
+                        0, 
+                        0
+                    ], 
+                    [
+                        -79, 
+                        836993024
+                    ]
+                ]
+            }, 
+            "type": 1024
+        }, 
+        "10053": {
+            "id": 10053, 
+            "name": "\u6218\u6597\u4e8c\u602a\u7269\u53d7\u51fb\u70b93", 
+            "placed_lock": false, 
+            "placed_visibility": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    [
+                        85, 
+                        1394212864
+                    ], 
+                    [
+                        0, 
+                        0
+                    ], 
+                    [
+                        -77, 
+                        1849753600
+                    ]
+                ]
+            }, 
+            "type": 1024
+        }, 
+        "10054": {
+            "id": 10054, 
+            "name": "\u6218\u6597\u4e8c\u602a\u7269\u53d7\u51fb\u70b94", 
+            "placed_lock": false, 
+            "placed_visibility": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    [
+                        84, 
+                        3380707328
+                    ], 
+                    [
+                        0, 
+                        0
+                    ], 
+                    [
+                        -75, 
+                        963280896
+                    ]
+                ]
+            }, 
+            "type": 1024
+        }, 
+        "10055": {
+            "id": 10055, 
+            "name": "\u6218\u6597\u4e8c\u602a\u7269\u70b91", 
+            "placed_lock": false, 
+            "placed_visibility": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    [
+                        86, 
+                        360710144
+                    ], 
+                    [
+                        0, 
+                        0
+                    ], 
+                    [
+                        -81, 
+                        1039663104
+                    ]
+                ]
+            }, 
+            "type": 1024
+        }, 
+        "10056": {
+            "id": 10056, 
+            "name": "\u6218\u6597\u4e8c\u602a\u7269\u70b92", 
+            "placed_lock": false, 
+            "placed_visibility": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    [
+                        86, 
+                        3256811520
+                    ], 
+                    [
+                        0, 
+                        0
+                    ], 
+                    [
+                        -79, 
+                        1645838336
+                    ]
+                ]
+            }, 
+            "type": 1024
+        }, 
+        "10057": {
+            "id": 10057, 
+            "name": "\u6218\u6597\u4e8c\u602a\u7269\u70b93", 
+            "placed_lock": false, 
+            "placed_visibility": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    [
+                        86, 
+                        3472982016
+                    ], 
+                    [
+                        0, 
+                        0
+                    ], 
+                    [
+                        -77, 
+                        2339110912
+                    ]
+                ]
+            }, 
+            "type": 1024
+        }, 
+        "10058": {
+            "id": 10058, 
+            "name": "\u6218\u6597\u4e8c\u602a\u7269\u70b94", 
+            "placed_lock": false, 
+            "placed_visibility": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    [
+                        86, 
+                        2281701376
+                    ], 
+                    [
+                        0, 
+                        0
+                    ], 
+                    [
+                        -75, 
+                        1305706496
+                    ]
+                ]
+            }, 
+            "type": 1024
+        }, 
+        "10059": {
+            "id": 10059, 
+            "name": "\u6218\u6597\u4e8c\u654c\u65b9AOE\u53d7\u51fb\u70b9", 
+            "placed_lock": false, 
+            "placed_visibility": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    [
+                        85, 
+                        3179118592
+                    ], 
+                    [
+                        0, 
+                        0
+                    ], 
+                    [
+                        -78, 
+                        1331396608
+                    ]
+                ]
+            }, 
+            "type": 1024
+        }, 
+        "10068": {
+            "id": 10068, 
+            "name": "\u6218\u6597\u4e09\u82f1\u96c4\u53d7\u51fb\u70b91", 
+            "placed_lock": false, 
+            "placed_visibility": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    [
+                        -76, 
+                        0
+                    ], 
+                    [
+                        0, 
+                        0
+                    ], 
+                    [
+                        -82, 
+                        1930158303
+                    ]
+                ]
+            }, 
+            "type": 1024
+        }, 
+        "10069": {
+            "id": 10069, 
+            "name": "\u6218\u6597\u4e09\u82f1\u96c4\u53d7\u51fb\u70b92", 
+            "placed_lock": false, 
+            "placed_visibility": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    [
+                        -77, 
+                        2147483648
+                    ], 
+                    [
+                        0, 
+                        0
+                    ], 
+                    [
+                        -80, 
+                        3134896629
+                    ]
+                ]
+            }, 
+            "type": 1024
+        }, 
+        "10070": {
+            "id": 10070, 
+            "name": "\u6218\u6597\u4e09\u82f1\u96c4\u53d7\u51fb\u70b93", 
+            "placed_lock": false, 
+            "placed_visibility": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    [
+                        -77, 
+                        2147483648
+                    ], 
+                    [
+                        0, 
+                        0
+                    ], 
+                    [
+                        -78, 
+                        4252876616
+                    ]
+                ]
+            }, 
+            "type": 1024
+        }, 
+        "10071": {
+            "id": 10071, 
+            "name": "\u6218\u6597\u4e09\u82f1\u96c4\u53d7\u51fb\u70b94", 
+            "placed_lock": false, 
+            "placed_visibility": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    [
+                        -76, 
+                        0
+                    ], 
+                    [
+                        0, 
+                        0
+                    ], 
+                    [
+                        -75, 
+                        2997457676
+                    ]
+                ]
+            }, 
+            "type": 1024
+        }, 
+        "10072": {
+            "id": 10072, 
+            "name": "\u6218\u6597\u4e09\u82f1\u96c4\u70b94", 
+            "placed_lock": false, 
+            "placed_visibility": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    [
+                        -78, 
+                        2147483648
+                    ], 
+                    [
+                        0, 
+                        0
+                    ], 
+                    [
+                        -75, 
+                        3026233957
+                    ]
+                ]
+            }, 
+            "type": 1024
+        }, 
+        "10073": {
+            "id": 10073, 
+            "name": "\u6218\u6597\u4e09\u82f1\u96c4\u70b93", 
+            "placed_lock": false, 
+            "placed_visibility": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    [
+                        -79, 
+                        4139679744
+                    ], 
+                    [
+                        0, 
+                        0
+                    ], 
+                    [
+                        -77, 
+                        1044217856
+                    ]
+                ]
+            }, 
+            "type": 1024
+        }, 
+        "10074": {
+            "id": 10074, 
+            "name": "\u6218\u6597\u4e09\u82f1\u96c4\u70b92", 
+            "placed_lock": false, 
+            "placed_visibility": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    [
+                        -78, 
+                        108593152
+                    ], 
+                    [
+                        0, 
+                        0
+                    ], 
+                    [
+                        -80, 
+                        3864854528
+                    ]
+                ]
+            }, 
+            "type": 1024
+        }, 
+        "10075": {
+            "id": 10075, 
+            "name": "\u6218\u6597\u4e09\u82f1\u96c4\u70b91", 
+            "placed_lock": false, 
+            "placed_visibility": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    [
+                        -78, 
+                        150011904
+                    ], 
+                    [
+                        0, 
+                        0
+                    ], 
+                    [
+                        -82, 
+                        2196406272
+                    ]
+                ]
+            }, 
+            "type": 1024
+        }, 
+        "10083": {
+            "id": 10083, 
+            "name": "Boss\u53d7\u51fb\u70b9", 
+            "placed_lock": false, 
+            "placed_visibility": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    [
+                        -72, 
+                        3932684288
+                    ], 
+                    [
+                        0, 
+                        0
+                    ], 
+                    [
+                        -79, 
+                        1231159296
+                    ]
+                ]
+            }, 
+            "type": 1024
+        }, 
+        "10084": {
+            "id": 10084, 
+            "name": "Boss\u70b9", 
+            "placed_lock": false, 
+            "placed_visibility": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    [
+                        -70, 
+                        3500998656
+                    ], 
+                    [
+                        0, 
+                        0
+                    ], 
+                    [
+                        -79, 
+                        1462566912
+                    ]
+                ]
+            }, 
+            "type": 1024
+        }, 
+        "10085": {
+            "id": 10085, 
+            "name": "\u6218\u6597\u4e09\u654c\u65b9AOE\u70b9", 
+            "placed_lock": false, 
+            "placed_visibility": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    [
+                        -71, 
+                        3847159808
+                    ], 
+                    [
+                        0, 
+                        0
+                    ], 
+                    [
+                        -79, 
+                        1410662400
+                    ]
+                ]
+            }, 
+            "type": 1024
+        }, 
+        "10086": {
+            "id": 10086, 
+            "name": "\u6218\u6597\u4e09\u4e59\u65b9AOE\u53d7\u51fb\u70b9", 
+            "placed_lock": false, 
+            "placed_visibility": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    [
+                        -77, 
+                        456294400
+                    ], 
+                    [
+                        0, 
+                        0
+                    ], 
+                    [
+                        -79, 
+                        2558132224
+                    ]
+                ]
+            }, 
+            "type": 1024
+        }, 
+        "10087": {
+            "id": 10087, 
+            "name": "\u70b9", 
+            "placed_lock": false, 
+            "placed_visibility": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    [
+                        -72, 
+                        4182245376
+                    ], 
+                    [
+                        0, 
+                        0
+                    ], 
+                    [
+                        -78, 
+                        979992576
+                    ]
+                ]
+            }, 
+            "type": 1024
+        }, 
+        "10088": {
+            "id": 10088, 
+            "name": "\u70b9", 
+            "placed_lock": false, 
+            "placed_visibility": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    [
+                        -71, 
+                        3540975616
+                    ], 
+                    [
+                        0, 
+                        0
+                    ], 
+                    [
+                        -78, 
+                        1422983168
+                    ]
+                ]
+            }, 
+            "type": 1024
+        }
+    }, 
+    "2048": {
+        "10019": {
+            "color": null, 
+            "height": {
+                "__tuple__": true, 
+                "items": [
+                    8, 
+                    703357952
+                ]
+            }, 
+            "id": 10019, 
+            "name": "\u6218\u6597\u4e00\u89e6\u53d1\u533a\u57df", 
+            "placed_lock": false, 
+            "placed_visibility": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    [
+                        18, 
+                        3356444672
+                    ], 
+                    [
+                        0, 
+                        0
+                    ], 
+                    [
+                        -8, 
+                        301084672
+                    ]
+                ]
+            }, 
+            "sound": null, 
+            "type": 2048, 
+            "weather": 0, 
+            "width": {
+                "__tuple__": true, 
+                "items": [
+                    6, 
+                    837865472
+                ]
+            }
+        }, 
+        "10060": {
+            "color": null, 
+            "height": {
+                "__tuple__": true, 
+                "items": [
+                    4, 
+                    2924134400
+                ]
+            }, 
+            "id": 10060, 
+            "name": "\u6218\u6597\u4e8c\u89e6\u53d1\u533a\u57df", 
+            "placed_lock": false, 
+            "placed_visibility": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    [
+                        49, 
+                        3873128448
+                    ], 
+                    [
+                        0, 
+                        0
+                    ], 
+                    [
+                        4, 
+                        1088436224
+                    ]
+                ]
+            }, 
+            "sound": null, 
+            "type": 2048, 
+            "weather": 0, 
+            "width": {
+                "__tuple__": true, 
+                "items": [
+                    9, 
+                    2452979712
+                ]
+            }
+        }, 
+        "10061": {
+            "color": null, 
+            "height": {
+                "__tuple__": true, 
+                "items": [
+                    8, 
+                    1138917376
+                ]
+            }, 
+            "id": 10061, 
+            "name": "\u6218\u6597\u4e09\u89e6\u53d1\u533a\u57df", 
+            "placed_lock": false, 
+            "placed_visibility": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    [
+                        41, 
+                        840581120
+                    ], 
+                    [
+                        0, 
+                        3850471424
+                    ], 
+                    [
+                        33, 
+                        2825961472
+                    ]
+                ]
+            }, 
+            "sound": null, 
+            "type": 2048, 
+            "weather": 0, 
+            "width": {
+                "__tuple__": true, 
+                "items": [
+                    27, 
+                    1955561472
+                ]
+            }
+        }
+    }, 
+    "4096": {}, 
+    "8192": {}, 
+    "32768": {
+        "9999": {
+            "camera_dist": 25.0, 
+            "far": 1000.0, 
+            "focus_max_dist": 40.0, 
+            "focus_min_dist": 10.0, 
+            "focus_x": 1.2160504292696737, 
+            "focus_y": 6.998845947236987e-12, 
+            "focus_z": 2.422298888016364, 
+            "fov": 35.0, 
+            "fov_disabled": true, 
+            "id": 9999, 
+            "is_origin_cam": true, 
+            "is_ortho": false, 
+            "name": "\u521d\u59cb\u955c\u5934", 
+            "ortho_scale": 1.0, 
+            "pitch": 0.785398167790845, 
+            "placed_lock": false, 
+            "placed_visibility": true, 
+            "roll": 0.0, 
+            "set_camera_conf_realtime": true, 
+            "type": 32768, 
+            "yaw": 0.0
+        }, 
+        "10021": {
+            "camera_dist": 28.0, 
+            "far": 1000.0, 
+            "focus_max_dist": null, 
+            "focus_min_dist": null, 
+            "focus_x": -5.0, 
+            "focus_y": 0.0, 
+            "focus_z": -78.5, 
+            "fov": 30.0, 
+            "fov_disabled": null, 
+            "id": 10021, 
+            "is_origin_cam": false, 
+            "is_ortho": false, 
+            "name": "\u6218\u6597\u4e00\u955c\u5934", 
+            "ortho_scale": 1.0, 
+            "pitch": 0.6981317047029734, 
+            "placed_lock": false, 
+            "placed_visibility": true, 
+            "roll": 0.0, 
+            "set_camera_conf_realtime": true, 
+            "type": 32768, 
+            "yaw": 5.497787174535915
+        }, 
+        "10041": {
+            "camera_dist": 28.0, 
+            "far": 1000.0, 
+            "focus_max_dist": null, 
+            "focus_min_dist": null, 
+            "focus_x": 80.0, 
+            "focus_y": 0.0, 
+            "focus_z": -78.5, 
+            "fov": 30.0, 
+            "fov_disabled": null, 
+            "id": 10041, 
+            "is_origin_cam": false, 
+            "is_ortho": false, 
+            "name": "\u6218\u6597\u4e8c\u955c\u5934", 
+            "ortho_scale": 1.0, 
+            "pitch": 0.6981317047029734, 
+            "placed_lock": false, 
+            "placed_visibility": true, 
+            "roll": 0.0, 
+            "set_camera_conf_realtime": true, 
+            "type": 32768, 
+            "yaw": 5.497787174535915
+        }, 
+        "10062": {
+            "camera_dist": 28.0, 
+            "far": 1000.0, 
+            "focus_max_dist": null, 
+            "focus_min_dist": null, 
+            "focus_x": -73.0, 
+            "focus_y": 0.0, 
+            "focus_z": -78.5, 
+            "fov": 30.0, 
+            "fov_disabled": null, 
+            "id": 10062, 
+            "is_origin_cam": false, 
+            "is_ortho": false, 
+            "name": "\u6218\u6597\u4e09\u955c\u5934", 
+            "ortho_scale": 1.0, 
+            "pitch": 0.6981317047029734, 
+            "placed_lock": false, 
+            "placed_visibility": true, 
+            "roll": 0.0, 
+            "set_camera_conf_realtime": true, 
+            "type": 32768, 
+            "yaw": 5.497787174535915
+        }
+    }, 
+    "65536": {}, 
+    "131072": {}, 
+    "262144": {}, 
+    "1048576": {}, 
+    "2097152": {}, 
+    "4194304": {}, 
+    "134217728": {}
+}

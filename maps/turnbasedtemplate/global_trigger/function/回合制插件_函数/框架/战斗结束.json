@@ -1,0 +1,99 @@
+{
+    "action": [
+        {
+            "action_type": "SEND_CUSTOM_EVENT", 
+            "args_list": [
+                {
+                    "arg_type": 100238, 
+                    "args_list": [
+                        1267484367
+                    ], 
+                    "sub_type": 1
+                }, 
+                {
+                    "arg_type": 100003, 
+                    "args_list": [
+                        {
+                            "__tuple__": true, 
+                            "items": [
+                                "STRING", 
+                                "\u6218\u6597\u7ed3\u679c", 
+                                "local"
+                            ]
+                        }
+                    ], 
+                    "sub_type": 2
+                }
+            ], 
+            "bp": false, 
+            "element_id": 873562133370093, 
+            "enable": true
+        }, 
+        {
+            "action_type": "CALL_TRIGGER_FUNC", 
+            "args_list": [
+                {
+                    "arg_type": 100177, 
+                    "args_list": [], 
+                    "op_arg": [], 
+                    "op_arg_enable": [], 
+                    "sub_type": "da669dd15dc611eea7f030d042e90e85"
+                }
+            ], 
+            "bp": false, 
+            "call_rt_arg_idxes": [], 
+            "element_id": 1779531793000003, 
+            "enable": true
+        }, 
+        {
+            "action_type": "SET_VARIABLE", 
+            "args_list": [
+                {
+                    "arg_type": 100030, 
+                    "args_list": [
+                        [
+                            "BOOLEAN", 
+                            "\u662f\u5426\u5904\u4e8e\u6218\u6597"
+                        ]
+                    ], 
+                    "sub_type": 1
+                }, 
+                {
+                    "arg_type": 100001, 
+                    "args_list": [
+                        false
+                    ], 
+                    "sub_type": 1
+                }
+            ], 
+            "bp": false, 
+            "element_id": 1779531793000002, 
+            "enable": true
+        }
+    ], 
+    "call_enabled": true, 
+    "condition": [], 
+    "enabled": true, 
+    "event": [], 
+    "func_category": "t_function", 
+    "func_comment": "", 
+    "func_des": "\u6218\u6597\u7ed3\u675f\uff0c\u6218\u6597\u7ed3\u679c\u4e3a{\u6218\u6597\u7ed3\u679c}", 
+    "func_id": "07d030705d0811ee9ddb30d042e90e85", 
+    "func_name": "\u6218\u6597\u7ed3\u675f", 
+    "func_param_list": [
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u6218\u6597\u7ed3\u679c", 
+                true
+            ]
+        }
+    ], 
+    "group_id": "oAl8j13JEe6FbTDQQuc0bg", 
+    "is_func": true, 
+    "is_official_func": false, 
+    "p_trigger_id": null, 
+    "trigger_id": 1779531793, 
+    "trigger_name": "\u6218\u6597\u7ed3\u675f", 
+    "valid": true
+}

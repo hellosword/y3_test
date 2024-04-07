@@ -1,0 +1,5 @@
+# -*- encoding:utf-8 -*-
+_reload_all = True
+
+
+data = {134224157: {'model_id': 134247149, 'preview_icon': '', 'name': u'\u8840\u5200\u5149', 'describe': 134224157, 'key': 134224157, 'res_identify': '', 'scale': 1.0, 'uid': '134224157', 'source_effect': 101067}, 134276728: {'model_id': 134263759, 'preview_icon': '', 'name': u'\u64cd\u4f5c\u6307\u5f15', 'describe': 134276728, 'key': 134276728, 'res_identify': '', 'scale': 1.0, 'uid': '134276728', 'source_effect': 102455}, 134252291: {'model_id': 134256810, 'preview_icon': '', 'name': u'\u6218\u6597\u4e00\u6307\u5f15', 'describe': 134252291, 'key': 134252291, 'res_identify': '', 'scale': 1.0, 'uid': '134252291', 'source_effect': 102455}, 134273084: {'model_id': 134236980, 'preview_icon': '', 'name': u'\u6307\u5f152', 'describe': 134273084, 'key': 134273084, 'res_identify': '', 'scale': 1.0, 'uid': '134273084', 'source_effect': 102455}, 134243044: {'model_id': 134234944, 'preview_icon': '', 'name': u'\u6307\u5f153', 'describe': 134243044, 'key': 134243044, 'res_identify': '', 'scale': 1.0, 'uid': '134243044', 'source_effect': 102455}}
